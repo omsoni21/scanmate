@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScanMate</string>
+    <string name="app_tagline">Smart Offline Document Scanner &amp; PDF Manager</string>
+    <string name="offline_badge">100% Offline • On-Device Only</string>
+    <string name="cd_app_logo">ScanMate logo</string>
+    <string name="cd_scan_document">Scan new document</string>
+    <string name="cd_import_gallery">Import image from gallery</string>
+    <string name="cd_navigate_back">Navigate back</string>
+    <string name="cd_toggle_flash">Toggle flashlight</string>
+    <string name="cd_switch_camera">Switch camera</string>
+    <string name="cd_toggle_grid">Toggle camera grid</string>
+    <string name="cd_toggle_auto_capture">Toggle auto capture</string>
+    <string name="cd_capture_photo">Capture document page</string>
+</resources>

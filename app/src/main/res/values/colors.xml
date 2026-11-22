@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="indigo_primary">#FF1E2A78</color>
+    <color name="electric_blue">#FF2563EB</color>
+    <color name="teal_accent">#FF0D9488</color>
+    <color name="soft_white">#FFF8FAFC</color>
+    <color name="deep_navy">#FF0B1120</color>
+</resources>
