@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # scanmate
 =======
 # 📄 ScanMate - Smart Document Scanner & OCR PDF Creator
@@ -132,4 +132,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <p align="center">
   Made with ❤️ for privacy-focused document scanning & fast PDF creation.
 </p>
->>>>>>> fb7022f (Initial commit - ScanMate document scanner with OCR and PDF generator)
