@@ -1,6 +1,4 @@
 
-# scanmate
-=======
 # 📄 ScanMate - Smart Document Scanner & OCR PDF Creator
 
 <p align="center">
